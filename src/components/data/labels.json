@@ -1,0 +1,39 @@
+[
+  {
+	"labels" : "January",
+	"value" : 4
+  },{
+	"labels" : "February",
+	"value" : 10
+  },{
+	"labels" : "March",
+	"value" : 30
+  },{
+	"labels" : "April",
+	"value" : 45
+  },{
+	"labels" : "May",
+	"value" : 56
+  },{
+	"labels" : "June",
+	"value" : 55
+  },{
+	"labels" : "July",
+	"value" : 40
+  },{
+	"labels" : "August",
+	"value" : 30
+  },{
+	"labels" : "September",
+	"value" : 20
+  },{
+	"labels" : "October",
+	"value" : 10
+  },{
+	"labels" : "November",
+	"value" : 5
+  },{
+	"labels" : "December",
+	"value" : 1
+  }
+]
