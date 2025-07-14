@@ -48,13 +48,19 @@ section {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    height: 100vw;
+    padding: 4em;
     height: 100vh;
     padding: 1em;
     min-height: fit-content;
   }
+
 }
 
 @media (max-width: 400px) {
+  section {
+    min-height: fit-content;
+  }
   section h2:first-child {
     padding-top: 120px;
   }
