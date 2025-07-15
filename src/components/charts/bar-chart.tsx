@@ -54,11 +54,6 @@ const BarChart = () => {
   return (
     <div className="bar-chart-container">
       <Bar data={data} options={options} className="bar-chart" />
-      {/* <p className="bar-chart-description">
-      This bar chart shows the average for each month, with data obtained from a JSON file.
-      </p> */
-      }
-      <br></br>
       <p className="psectiondescription">
       <strong>January :</strong> Assess & Benchmark, Objective: Understand current performance and identify key areas for improvement.
      - Conduct time studies and map workflow.
