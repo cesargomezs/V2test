@@ -76,7 +76,6 @@ const BarChart = () => {
       <strong>April :</strong> Optimize & Monitor, Objective: Fine-tune processes and monitor performance.
      - Analyze initial performance data against baseline KPIs.
      - Identify any remaining bottlenecks or issues.          
-
       </p>
       <br></br>
       <p className="psectiondescription">
@@ -125,9 +124,7 @@ const BarChart = () => {
       <p className="psectiondescription">
       <strong>December :</strong> Year-End Review & Planning, Objective: Conduct a comprehensive year-end review and plan for the next year.
       - Conduct a year-end review meeting with the team.
-      - Present the project outcomes and performance metrics.
       </p> 
-      <br></br>
     </div>
   );
 };
