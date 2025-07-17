@@ -9,6 +9,7 @@ import Footer from './components/navigation/footer';
 import './styles/main.css';
 import './styles/scroll/scroll.js';
 import './styles/App.css';
+import Description from './components/sections/description.js';
  
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
         <Home />
         <About />
         <Dashboard />
+        <Description />
         <Services />
         <Contact />
       </main>

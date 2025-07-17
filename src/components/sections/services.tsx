@@ -26,11 +26,6 @@ const Services = () => {
         <strong>5.</strong> Returns Handling We manage returns efficiently,
         inspecting items, restocking eligible products, and reporting on return
         patterns to help improve your operations.
-        <br></br>
-        <strong>6.</strong> Distribution & Shipping Fast and reliable
-        distribution to local and international destinations. We work with
-        trusted carriers to ensure timely delivery and competitive shipping
-        rates.
       </p>
     </section>
   );

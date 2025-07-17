@@ -6,10 +6,12 @@ Chart.register(CategoryScale);
 
 const Dashboard = () => {
   return (
-    <section id="dashboard">
-      <h2>Dashboard</h2>
-      <BarChart />
-    </section>
+    <>
+      <section id="dashboard">
+        <h2>Dashboard</h2>
+        <BarChart />
+      </section>
+    </>
   );
 };
 
