@@ -1,8 +1,10 @@
 const Description = () => {
   return (
         <>
+        <h2>Warehouse Optimization Project Timeline</h2>
         <div className="divGraph">
-            <h2>Warehouse Optimization Project Timeline</h2>
+            <div style={{textAlign:"left"}}>
+            
                 <p>
                     <strong>January :</strong> Assess & Benchmark, Objective: Understand current performance and identify key areas for improvement.
                     <br></br>
@@ -96,6 +98,7 @@ const Description = () => {
                     <br></br>
                     - Conduct a year-end review meeting with the team.
                 </p>
+                </div>
         </div>
         </>
         );

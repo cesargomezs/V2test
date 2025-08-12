@@ -25,20 +25,19 @@ const Navbar = () => {
         onClick={() => setIsOpen(false)}
       >
         <li>
-        <i className="fa-house"></i>
-          <a href="#home">Home</a>
+          <a href="#home"><i className="fa-solid fa-house"></i> Home</a>
         </li>
         <li>
-          <a href="#about">About</a>
+          <a href="#about"><i className="fa-solid fa-people-carry-box"></i> About</a>
         </li>
         <li>
-          <a href="#dashboard">Dashboard</a>
+          <a href="#dashboard"><i className="fa-solid fa-chart-line"></i> Dashboard</a>
         </li>
         <li>
-          <a href="#services">Services</a>
+          <a href="#services"><i className="fa-solid fa-barcode"></i> Services</a>
         </li>
         <li>
-          <a href="#contact">Contact</a>
+          <a href="#contact"><i className="fa-solid fa-address-card"></i> Contact</a>
         </li>
       </ul>
     </nav>

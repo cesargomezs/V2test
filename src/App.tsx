@@ -10,7 +10,8 @@ import './styles/main.css';
 import './styles/scroll/scroll.js';
 import './styles/App.css';
 import Description from './components/sections/description.js';
- 
+
+
 
 function App() {
   return (
@@ -22,14 +23,14 @@ function App() {
       />
       <Navbar />
       <main>
-        <br></br>
         <Home />
         <About />
         <Dashboard />
         <Description />
         <Services />
-        <Contact />
+        <Contact />  
       </main>
+      
       <Footer />
     </>
   );
